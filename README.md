@@ -2,3 +2,17 @@
 Shell for first math laboratory work
 
 https://vk.com/video?z=video255396611_456240107
+
+## Installation
+Билд и запуск
+```shell script
+./build.sh
+```
+
+После того как файл скомпилировался в jar, его можно запустить используя:
+```shell script
+./run.sh
+```
+
+Доступные команды:
+`matrix`, `matrix-file`, `matrix-random <размер>`
