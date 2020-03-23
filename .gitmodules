@@ -1,0 +1,7 @@
+[submodule "console-math"]
+	path = console-math
+	url = https://github.com/AppLoidx/console-math
+  
+[submodule "console-math-app"]
+	path = console-math-app
+	url = https://github.com/AppLoidx/console-math-app
