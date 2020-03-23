@@ -4,8 +4,11 @@ Shell for first math laboratory work
 https://vk.com/video?z=video255396611_456240107
 
 ## Installation
+
 Билд и запуск
 ```shell script
+git clone --recurse-submodules https://github.com/AppLoidx/computational_math_shell.git
+cd computational_math_shell/
 ./build.sh
 ```
 
