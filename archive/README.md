@@ -17,4 +17,4 @@
 ```
 
 Доступные команды:
-`matrix`, `matrix-file`, `matrix-random <размер>`
+`matrix`, `matrix-file`, `matrix-random <размер>`, `integral`
