@@ -19,3 +19,13 @@ cd computational_math_shell/
 
 Доступные команды:
 `matrix`, `matrix-file`, `matrix-random <размер>`
+
+#### Resonsive Swing
+https://vk.com/wall255396611_3151
+
+#### Пример графиков
+![](https://i.imgur.com/T3os5WX.png)
+
+#### Работа с несколькими функциями
+
+![](https://i.imgur.com/eBjXOXJ.png)
