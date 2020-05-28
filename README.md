@@ -34,3 +34,8 @@ https://vk.com/wall255396611_3151
 #### Работа с несколькими функциями
 
 ![](https://i.imgur.com/eBjXOXJ.png)
+
+#### Интерполяция методом Ньютона
+![](https://i.imgur.com/K2QBzFy.png)
+
+![](https://i.imgur.com/B5ynevY.png)
