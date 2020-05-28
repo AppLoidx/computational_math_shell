@@ -20,6 +20,11 @@ cd computational_math_shell/
 Доступные команды:
 `matrix`, `matrix-file`, `matrix-random <размер>`
 
+Отчеты:
+* [Первая работа [PDF]](reports/Kupriyanov_Lab1.pdf)
+* [Вторая работа [PDF]](reports/Kupriyanov_Lab2.pdf)
+* [Третья работа [PDF]](reports/Kupriyanov_Lab3.pdf)
+
 #### Resonsive Swing
 https://vk.com/wall255396611_3151
 
