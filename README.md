@@ -19,10 +19,11 @@ cd computational_math_shell/
 
 Чтобы начать работу можно начать с команды `help`
 
-Отчеты:
+## Отчеты
 * [Первая работа [PDF]](reports/Kupriyanov_Lab1.pdf)
 * [Вторая работа [PDF]](reports/Kupriyanov_Lab2.pdf)
 * [Третья работа [PDF]](reports/Kupriyanov_Lab3.pdf)
+* [Четвертая работа (Приближение функций) [PDF]](reports/Kupriyanov_Lab_3_2.pdf) - сделал минут за 20
 
 
 ## Добавление команд
@@ -50,13 +51,17 @@ public class Hello implements Command {
 }
 ```
 
+>Note: При этом не надо добавлять это имя в help, оно добавится само
+
 ## Ссылки по коду
 
 * [Рисовалка графиков](https://github.com/AppLoidx/console-math-app/blob/master/src/main/java/com/apploidxxx/app/graphics/GraphPanel.java)
 * [Имплементация математических методов](https://github.com/AppLoidx/console-math/tree/master/src/main/java/core/impl)
 * [Виды консолей (под все, только под bash)](https://github.com/AppLoidx/console-math-app/tree/master/src/main/java/com/apploidxxx/app/console/impl)
 
->Note: При этом не надо добавлять это имя в help, оно добавится само
+
+
+## Примеры пользования
 
 #### Responsive Swing
 https://vk.com/wall255396611_3151
