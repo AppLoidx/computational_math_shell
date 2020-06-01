@@ -50,6 +50,12 @@ public class Hello implements Command {
 }
 ```
 
+## Ссылки по коду
+
+* [Рисовалка графиков](https://github.com/AppLoidx/console-math-app/blob/master/src/main/java/com/apploidxxx/app/graphics/GraphPanel.java)
+* [Имплементация математических методов](https://github.com/AppLoidx/console-math/tree/master/src/main/java/core/impl)
+* [Виды консолей (под все, только под bash)](https://github.com/AppLoidx/console-math-app/tree/master/src/main/java/com/apploidxxx/app/console/impl)
+
 >Note: При этом не надо добавлять это имя в help, оно добавится само
 
 #### Responsive Swing
