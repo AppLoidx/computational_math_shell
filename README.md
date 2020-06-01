@@ -17,15 +17,42 @@ cd computational_math_shell/
 ./run.sh
 ```
 
-Доступные команды:
-`matrix`, `matrix-file`, `matrix-random <размер>`
+Чтобы начать работу можно начать с команды `help`
 
 Отчеты:
 * [Первая работа [PDF]](reports/Kupriyanov_Lab1.pdf)
 * [Вторая работа [PDF]](reports/Kupriyanov_Lab2.pdf)
 * [Третья работа [PDF]](reports/Kupriyanov_Lab3.pdf)
 
-#### Resonsive Swing
+
+## Добавление команд
+
+Чтобы добавить команду, необходимо в модуле `console-math-app` в пакете `com.apploidxxx.app.core.command.impl` добавить команду
+
+```java
+/**
+ * @author Arthur Kupriyanov on 18.02.2020
+ */
+@Executable(
+        value = "hello",
+        aliases = {
+                "hi", "привет"
+        }
+)
+public class Hello implements Command {
+
+    @Override
+    public void execute(Console console, String context) {
+        console.println("Привет-Привет!");
+        // some stuff...
+
+    }
+}
+```
+
+>Note: При этом не надо добавлять это имя в help, оно добавится само
+
+#### Responsive Swing
 https://vk.com/wall255396611_3151
 
 #### Пример графиков
