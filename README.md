@@ -1,7 +1,7 @@
-# computational_math_shell
-Shell for first math laboratory work
+# Computational Math Shell written in Java
 
-https://vk.com/video?z=video255396611_456240107
+Shell for math laboratory work
+
 
 ## Installation
 
