@@ -23,7 +23,7 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Github Action for LaTeX
-    - uses: xu-cheng/latex-action@v2
+      uses: xu-cheng/latex-action@v2
       with: |
         reports/source/lab_1/main.tex
         reports/source/lab_2/main.tex
