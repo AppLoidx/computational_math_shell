@@ -22,10 +22,22 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
-    - name: Github Action for LaTeX
+    - name: Compile lab 1
       uses: xu-cheng/latex-action@v2
-      with: |
-        reports/source/lab_1/main.tex
-        reports/source/lab_2/main.tex
-        reports/source/lab_3/main.tex
+      with:
+        root_file: main.tex
+        working_directory: reports/source/lab_1/
+    - name: Compile lab 2
+      uses: xu-cheng/latex-action@v2
+      with:
+        root_file: main.tex
+        working_directory: reports/source/lab_2/
+         
+    - name: Compile lab 3
+      uses: xu-cheng/latex-action@v2
+      with:
+        root_file: main.tex
+        working_directory: reports/source/lab_3/
+        
+
 
