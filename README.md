@@ -1,5 +1,7 @@
 # Computational Math Shell written in Java
 
+![](https://github.com/AppLoidx/computational_math_shell/workflows/CI/badge.svg)
+
 Shell for math laboratory work
 
 
