@@ -43,8 +43,8 @@ jobs:
     - name: Upload
       uses: actions/upload-artifact@master
       with:
-        name: compiled
-        path: compiled
+        name: reports
+        path: reports/source
       if: always()  
         
 
