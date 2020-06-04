@@ -1,6 +1,9 @@
 # Computational Math Shell written in Java
 
 ![](https://github.com/AppLoidx/computational_math_shell/workflows/CI/badge.svg)
+[![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/AppLoidx/computational_math_shell.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AppLoidx/computational_math_shell/context:java)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/AppLoidx/computational_math_shell.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AppLoidx/computational_math_shell/alerts/)
+
 
 Shell for math laboratory work
 
