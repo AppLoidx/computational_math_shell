@@ -29,6 +29,7 @@ cd computational_math_shell/
 * [Вторая работа [PDF]](reports/Kupriyanov_Lab2.pdf)
 * [Третья работа [PDF]](reports/Kupriyanov_Lab3.pdf)
 * [Четвертая работа (Приближение функций) [PDF]](reports/Kupriyanov_Lab_3_2.pdf) - сделал минут за 20
+* [Пятая лабораторная работа (решение ОДУ)[PDF]](reports/Kupriyanov_Lab5.pdf)
 
 Свежескомпилированные отчёты [from GitHub Action](https://github.com/AppLoidx/computational_math_shell/actions)
 
