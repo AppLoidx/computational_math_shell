@@ -7,9 +7,15 @@
     <version>5.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>First Lab for Compute Labs</name>
-    <description>by Arthur Kupriyanov P3212</description>
+    <name>Labs for Compute Math</name>
+    <description>Parent for compute labs modules</description>
 
+    <developers>
+        <developer>
+            <name>Arthur Kupriyanov</name>
+            <url>https://github.com/AppLoidx</url>
+        </developer>
+    </developers>
 
     <modules>
         <module>console-math</module>
